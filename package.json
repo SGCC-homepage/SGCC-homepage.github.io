@@ -1,5 +1,5 @@
 {
-  "name": "argon-design-system-react",
+  "name": "SGCC_homepage",
   "version": "1.1.0",
   "description": "React version of Argon Design System by Creative Tim",
   "main": "index.js",
@@ -50,6 +50,7 @@
   "dependencies": {
     "bootstrap": "4.3.1",
     "classnames": "2.2.6",
+    "gh-pages": "^3.1.0",
     "headroom.js": "0.11.0",
     "moment": "2.24.0",
     "node-sass": "4.13.1",
