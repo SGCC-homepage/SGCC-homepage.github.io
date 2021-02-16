@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://sgcc-homepage.github.io/"
+    "url": "git+https://github.com/creativetimofficial/argon-design-system-react.git"
   },
   "keywords": [
     "react",
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/creativetimofficial/argon-design-system-react/issues"
   },
-  "homepage": "https://demos.creative-tim.com/argon-design-system-react/",
+  "homepage": "https://sgcc-homepage.github.io/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
