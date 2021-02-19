@@ -1,7 +1,20 @@
 {
-  "name": "test-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "sgcc-homepage.github.io",
+  "version": "1.0.0",
+  "description": "homepage of Sogang Computer Club",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SGCC-homepage/SGCC-homepage.github.io.git"
+  },
+  "keywords": [
+    "SGCC-homepage"
+  ],
+  "author": "Jaehyun Ko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SGCC-homepage/SGCC-homepage.github.io/issues"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -10,7 +23,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.2",
+    "react-scripts": "^4.0.2",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
